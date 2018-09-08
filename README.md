@@ -1,0 +1,2 @@
+# utl_highlevel_summarization_of_mutiple_tables_using_proc_compare_and_sysinfo
+Highlevel summarization of mutiple tables using proc compare and sysinfo.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
