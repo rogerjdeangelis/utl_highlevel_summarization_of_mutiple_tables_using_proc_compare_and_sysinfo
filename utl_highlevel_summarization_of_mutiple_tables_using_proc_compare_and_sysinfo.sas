@@ -62,7 +62,7 @@ WANT (EXCEL SHEET with Highlevel Summary)
     +------------------------+------------+------------+----------------------------------------------------+
  4  | prod.CLASSM            | qc.CLASSM  |   4160     |  Base data set has observation not in comparison   | ** two issues
     +------------------------+------------+------------+----------------------------------------------------+
- 4  | prod.CLASSM            | qc.CLASSM  |   4160     |  A value comparison was unequal                    |
+ 5  | prod.CLASSM            | qc.CLASSM  |   4160     |  A value comparison was unequal                    |
     +------------------------+------------+------------+----------------------------------------------------+
 
 
