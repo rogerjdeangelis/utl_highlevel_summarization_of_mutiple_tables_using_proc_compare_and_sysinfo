@@ -74,7 +74,7 @@ Highlevel summarization of mutiple tables using proc compare and sysinfo.  Keywo
         +------------------------+------------+------------+----------------------------------------------------+
      4  | prod.CLASSM            | qc.CLASSM  |   4160     |  Base data set has observation not in comparison   | ** two issues
         +------------------------+------------+------------+----------------------------------------------------+
-     4  | prod.CLASSM            | qc.CLASSM  |   4160     |  A value comparison was unequal                    |
+     5  | prod.CLASSM            | qc.CLASSM  |   4160     |  A value comparison was unequal                    |
         +------------------------+------------+------------+----------------------------------------------------+
 
 
